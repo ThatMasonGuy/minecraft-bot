@@ -38,6 +38,7 @@ It cannot:
 - [Vision](docs/vision.md)
 - [Fair Play Contract](docs/fair-play-contract.md)
 - [Architecture](docs/architecture.md)
+- [Control Loop](docs/control-loop.md)
 - [Perception Firewall](docs/perception-firewall.md)
 - [Memory Model](docs/memory-model.md)
 - [Roadmap](docs/roadmap.md)
