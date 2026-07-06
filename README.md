@@ -39,6 +39,7 @@ It cannot:
 - [Fair Play Contract](docs/fair-play-contract.md)
 - [Architecture](docs/architecture.md)
 - [Control Loop](docs/control-loop.md)
+- [Implementation Plan](docs/implementation-plan.md)
 - [Perception Firewall](docs/perception-firewall.md)
 - [Memory Model](docs/memory-model.md)
 - [Roadmap](docs/roadmap.md)

@@ -9,6 +9,7 @@ Before making design or implementation changes, read:
 - `README.md`
 - `docs/fair-play-contract.md`
 - `docs/architecture.md`
+- `docs/implementation-plan.md`
 - `docs/perception-firewall.md`
 - `docs/memory-model.md`
 - `docs/risks.md`
