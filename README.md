@@ -6,7 +6,7 @@ The target environment is Mason's own Minecraft server. We are not optimizing fo
 
 ## Current Status
 
-This repo is in the design and documentation phase.
+This repo is in the Phase 1 scaffold stage. It has a TypeScript project skeleton, env validation, logging, and tests, but it does not connect to Minecraft yet.
 
 Initial stance:
 
@@ -58,6 +58,27 @@ Important local-only values include:
 - `MINECRAFT_AUTH`
 - `OPENAI_API_KEY`
 - `DATABASE_URL`
+
+## Development
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+Run the scaffold:
+
+```sh
+npm run dev
+```
+
+Check the project:
+
+```sh
+npm run typecheck
+npm test
+```
 
 ## Design Bias
 
